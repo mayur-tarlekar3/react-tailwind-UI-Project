@@ -1,3 +1,39 @@
+# React Tailwind UI Project
+
+A modern UI built using React and Tailwind CSS. This project demonstrates a clean and responsive card-based layout for customer segmentation.
+
+## 🚀 Features
+
+* Responsive design
+* Card-based UI
+* Tailwind CSS styling
+* Reusable components
+
+## 🛠 Tech Stack
+
+* React.js
+* Tailwind CSS
+* Vite
+
+## 📂 Setup
+
+```bash
+npm install
+npm run dev
+```
+
+## 📸 Preview
+
+Modern UI with customer cards and segmentation layout.
+
+## 👨‍💻 Author
+
+Mayur Tarlekar
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
